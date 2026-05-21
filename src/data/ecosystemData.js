@@ -1,0 +1,48 @@
+export const ecosystemData = {
+  sectionNumber: "05",
+  eyebrow: "OUR ECOSYSTEM",
+  title: "A family of AI products. Built for every dimension of human potential.",
+  items: [
+    {
+      name: "Soch",
+      tagline: "Think Deeper",
+      description: "Structured thinking and reflection for clarity and insight.",
+      cta: "Explore",
+      accent: "from-violet-500/20 to-fuchsia-500/10",
+      border: "border-violet-500/30",
+    },
+    {
+      name: "Yug",
+      tagline: "Know More",
+      description: "Curated knowledge and insights to fuel your growth.",
+      cta: "Explore",
+      accent: "from-emerald-500/20 to-teal-500/10",
+      border: "border-emerald-500/30",
+    },
+    {
+      name: "Khel",
+      tagline: "Grow Through Play",
+      description: "Play-driven cognitive growth that makes learning addictive.",
+      cta: "Explore",
+      accent: "from-orange-500/20 to-amber-500/10",
+      border: "border-orange-500/30",
+    },
+    {
+      name: "Moh",
+      tagline: "Connect Better",
+      description: "Emotional intelligence for deeper, more meaningful relationships.",
+      cta: "Explore",
+      accent: "from-pink-500/20 to-rose-500/10",
+      border: "border-pink-500/30",
+    },
+    {
+      name: "Taksh",
+      tagline: "Master Skills",
+      description: "Accelerate skills and mastery with adaptive learning paths.",
+      cta: "Explore",
+      accent: "from-cyan-500/20 to-sky-500/10",
+      border: "border-cyan-500/30",
+    },
+  ],
+  bottomCta: "Explore the Ecosystem",
+};
